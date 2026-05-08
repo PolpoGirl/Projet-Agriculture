@@ -1,0 +1,7 @@
+npm run dev
+y
+npm run dev
+y
+doskey /history
+doskey /history \ more
+doskey /history > history.txt
